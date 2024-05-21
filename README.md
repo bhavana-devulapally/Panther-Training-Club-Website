@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 **Project Report: Panther Training Club**
 
 **Introduction:**
@@ -280,3 +281,6 @@ manage both trainer and member accounts. Below is a comprehensive overview of ho
   - Deletion operations are performed securely, ensuring that associated data is properly handled and removed from the database.
 
   
+=======
+# Panther-Training-Club-Website
+>>>>>>> f0e379b131a178d63d416330df9442fe070d7cd4
