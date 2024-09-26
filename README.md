@@ -87,16 +87,6 @@ The Panther Training Club project provided valuable insights into web developmen
 {
     "members": [
         {
-            "_id": "66315e263b74fcb47fa107d6",
-            "name": "Shusrita Venugopal",
-            "email": "shv73@pitt.edu",
-            "phoneNo": "4126264706",
-            "age": 24,
-            "gender": "female",
-            "height": 154,
-            "weight": 50
-        },
-        {
             "_id": "663168c7b3ecaa58c73ab38a",
             "name": "Bhavana Devulapally",
             "email": "bhd30@pitt.edu",
@@ -105,7 +95,18 @@ The Panther Training Club project provided valuable insights into web developmen
             "gender": "female",
             "height": 182,
             "weight": 55
+        },
+        {
+            "_id": "66315e263b74fcb47fa107d6",
+            "name": "Shusrita Venugopal",
+            "email": "shv73@pitt.edu",
+            "phoneNo": "4126264706",
+            "age": 24,
+            "gender": "female",
+            "height": 154,
+            "weight": 50
         }
+        
     ]
 }
 ```
@@ -155,13 +156,13 @@ The Panther Training Club project provided valuable insights into web developmen
 ```json
 {
     "_id": "66315e263b74fcb47fa107d6",
-    "name": "Shusrita Venugopal",
-    "email": "shv73@pitt.edu",
+    "name": "Bhavana Devulapally",
+    "email": "bhd30@pitt.edu",
     "phoneNo": "4126264706",
-    "age": 24,
+    "age": 22,
     "gender": "female",
-    "height": 154,
-    "weight": 50
+    "height": 168,
+    "weight": 55
 }
 ```
 
@@ -239,12 +240,12 @@ c73ab38a",
 **Input Format**:
 ```json
 {
-    "name": "Shusrita Venugopal",
+    "name": "Bhavana Devulapally",
     "phoneNo": "4126264706",
-    "age": 25,
+    "age": 22,
     "gender": "female",
     "height": 160,
-    "weight": 52
+    "weight": 55
 }
 ```
 
