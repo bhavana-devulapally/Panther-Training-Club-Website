@@ -12,7 +12,7 @@ Panther Training Club is a comprehensive fitness web application built using **N
 The primary objective of the project was to create a user-friendly and secure platform for gym enthusiasts to connect with trainers and access personalized fitness services. We aimed to implement features such as user authentication, profile management, booking functionalities, and admin privileges. Beyond the basic requirements, our goal was to ensure efficient data management, robust security measures, and a seamless user experience.
 
 ## Team Member Contributions
-- **Bhavana Devulapally**: Led the front-end development, including user interface design and implementation. Also contributed to backend development and API integration.
+- **Bhavana Devulapally**: Led the front-end  and back-end development development, including user interface design, server setup, API mapping and implementation. Also contributed to backend development and API integration.
 - **Shusrita Venugopal**: Took charge of backend development, including server setup, database management, and API development. Implemented authentication and authorization features.
 - **Harsha Vaidhyam**: Managed project planning, documentation, and testing. Contributed to both front-end and backend development tasks.
 
